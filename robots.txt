@@ -1,0 +1,39 @@
+#	AMD Gesso wins! We will dominate the world. MUHAHAHAHAAHA.
+#
+#	Look at this, and be happy: https://www.youtube.com/watch?v=JRMOMjCoR58
+#	and https://www.youtube.com/watch?v=Ci-0k9GojM4
+#
+
+User-agent: *
+
+# Directories
+User-Agent: *
+Disallow: 
+Disallow: /bootstrap/
+Disallow: /classes/
+Disallow: /css/
+Disallow: /img/
+Disallow: /jquery/
+Disallow: /js/
+Disallow: /upload/
+
+# Files
+Disallow: /acompanhamento.php
+Disallow: /controles.js
+Disallow: /dashboard.php
+Disallow: /editar_obra.php
+Disallow: /editar_usuario.php
+Disallow: /fotos.php
+Disallow: /index.php
+Disallow: /inicio.php
+Disallow: /obras_arquivadas.php
+Disallow: /obras_concluidas.php
+Disallow: /ocorrencia.php
+Disallow: /ocorrencias.php
+Disallow: /relatorio.php
+Disallow: /senha.php
+Disallow: /usuario.php
+Disallow: /usuarios_desativo.php
+Disallow: /view.php
+Disallow: /acompanhamento.php
+
